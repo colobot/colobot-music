@@ -15,7 +15,7 @@ It currently includes:
  * Intro2.ogg
 
 # File formats and installation
-This repository contains files in FLAC format. However, the game can only play OGG files, so they need to be converted first - it's done like this so we can keep high quality music available, but reduce the file size for use in Colobot data files. This is done by CMake scripts included with this repository. *TODO: CMake scripts are not ready yet!*
+This repository contains files in FLAC format. However, the game can only play OGG files, so they need to be converted first - it's done like this so we can keep high quality music available, but reduce the file size for use in Colobot data files. This is done by CMake scripts included with this repository, but they require "oggenc" to be installed in your system.
 
 # Licensing
 All music files on this reporitory are licensed under GPLv3 license.
