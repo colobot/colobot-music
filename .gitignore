@@ -3,21 +3,7 @@
 /cmake_install.cmake
 /Makefile
 # Generated ogg files
-Constructive.ogg
-Humanitarian.ogg
-Hv2.ogg
-Infinite.ogg
-Prototype.ogg
-Quite.ogg
-music002.ogg
-music003.ogg
-music004.ogg
-music005.ogg
-music006.ogg
-music007.ogg
-music008.ogg
-music009.ogg
-music010.ogg
-music011.ogg
-music012.ogg
-music013.ogg
+*.ogg
+# except:
+!Intro1.ogg
+!Intro2.ogg
