@@ -1,0 +1,6 @@
+# CMake files
+/CMakeFiles/
+/cmake_install.cmake
+/Makefile
+# Generated ogg files
+/*.ogg
