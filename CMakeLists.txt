@@ -2,6 +2,11 @@ cmake_minimum_required(VERSION 2.8)
 
 set(MUSIC_QUALITY 3 CACHE STRING "Music quality [-1(very low) - 10(very high), fractional values allowed]")
 
+find_program(OGGENC oggenc)
+if(NOT OGGENC)
+    message(FATAL_ERROR "oggenc not found! Music files cannot be generated!")
+endif()
+
 if(NOT DEFINED COLOBOT_INSTALL_DATA_DIR)
     if(${CMAKE_SYSTEM_NAME} MATCHES "Windows")
         set(COLOBOT_INSTALL_MUSIC_DIR ${CMAKE_INSTALL_PREFIX}/data/music CACHE PATH "Colobot shared music directory")
