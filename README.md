@@ -10,6 +10,7 @@ It currently includes:
  * "Prototype" - Prototype.flac
  * "Quite Busy" - Quite.flac
  * "Infinite Storm v2 - Being Approximately Overcharged" - Infinite.flac
+ * "Proton Ame" - Proton.flac
 * New main menu intro music, composed by **PiXeL** ([forum](http://colobot.info/forum/memberlist.php?mode=viewprofile&u=243))
  * Intro1.ogg
  * Intro2.ogg
