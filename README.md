@@ -1,8 +1,19 @@
 # Colobot: Gold Edition - music files
 This reporitory contains music tracks for Colobot: Gold Edition project (https://github.com/colobot/colobot) and is an optional addition to game's data files (https://github.com/colobot/colobot-data).
 It currently includes:
-* Original music from Colobot game, composed by **Daniel Roux**
- * musicXXX.flac files, they were taken from original game CD
+* Original music from Colobot game, composed by **Daniel Roux** and prepared by **CoLoRaptor** to be also as stand-alone soundtrack album in the Vorbis meta-tags (by adding titles to every track and changing queue, that would be more suited to album release). This music was taken from original game CD.
+ * Track 01: "CoLoBoT Main Theme" - music011.flac
+ * Track 02: "Leaving Earth - NASA Exercises" - music002.flac
+ * Track 03: "The First Unknown World - Nature of Natives" - music003.flac
+ * Track 04: "Crystalium - System Failure" - music004.flac
+ * Track 05: "Saari's Heat" - music005.flac
+ * Track 06: "Eruption" - music006.flac
+ * Track 07: "Centaury - The Lost Hope" - music007.flac
+ * Track 08: "Infinite Storm" - music008.flac
+ * Track 09: "Terranova - Our New Home" - music009.flac
+ * Track 10: "You Win!" - music012.flac
+ * Track 11: "You Lose..." - music010.flac
+ * Track 12: "Jazz Buzzing EasterEgg" - music013.flac
 * New audio tracks, composed by **Emxx52** ([forum](http://colobot.info/forum/memberlist.php?mode=viewprofile&u=68), [GitHub](https://github.com/Emxx52))
  * "Constructive Destruction" - Constructive.flac
  * "Humanitarian" - Humanitaian.flac
