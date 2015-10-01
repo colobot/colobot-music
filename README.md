@@ -1,6 +1,9 @@
 # Colobot: Gold Edition - music files
-This directory contains scripts for downloading music tracks for Colobot: Gold Edition project (https://github.com/colobot/colobot) from official colobot.info server (http://colobot.info/files/music/) that are an optional addition to game's data files (https://github.com/colobot/colobot-data).
-It currently includes:
+This repository contains music tracks for Colobot: Gold Edition project (https://github.com/colobot/colobot) that are an optional addition to game's data files (https://github.com/colobot/colobot-data). This repository also includes CMake scripts for converting them from high-quality FLAC to OGG format usable by the game.
+
+The files in this repository are hosted using [Git LFS](https://git-lfs.github.com/), make sure you install it before cloning.
+
+The music files currently include:
 * Original music from Colobot game, composed by **Daniel Roux** and prepared by **CoLoRaptor** to be also as stand-alone soundtrack album in the Vorbis meta-tags (by adding titles to every track and changing queue, that would be more suited to album release). This music was taken from original game CD.
  * Track 01: "CoLoBoT Main Theme" - music011.flac
  * Track 02: "Leaving Earth - NASA Exercises" - music002.flac
