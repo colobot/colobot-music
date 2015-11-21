@@ -1,4 +1,5 @@
 # Colobot: Gold Edition - music files
+## THIS REPO IS CURRENTLY FOR TESTING GIT LFS - It's not being used officially yet !!
 This repository contains music tracks for Colobot: Gold Edition project (https://github.com/colobot/colobot) that are an optional addition to game's data files (https://github.com/colobot/colobot-data). This repository also includes CMake scripts for converting them from high-quality FLAC to OGG format usable by the game.
 
 The files in this repository are hosted using [Git LFS](https://git-lfs.github.com/), make sure you install it before cloning.
@@ -25,8 +26,12 @@ The music files currently include:
  * "Proton Ame" - Proton.flac *(not available in-game yet)*
  * "Prototype" - Prototype.flac
  * "Quite Busy" - Quite.flac
- * "Quite Busy v2 - Echoes of the Sand" *(not available in-game yet)*
- * "Under Construction - Terralice Theme" *(not available in-game yet)*
+ * "Quite Busy v2 - Echoes of the Sand" - Qv2.flac *(not available in-game yet)*
+ * "Under Construction - Terralice Theme" - Terralice.flac *(not available in-game yet)*
+ * "Deviated Distortion Imminent" - Distortion.flac *(not available in-game yet)*
+ * "Dispersion Circumstance" - Dispersion.flac *(not available in-game yet)*
+ * "Sequential Deed Request" - Deed.flac *(not available in-game yet)*
+ * "Substantial Processing" *(not available in-game yet)*
 * New main menu intro music, composed by **PiXeL** ([forum](http://colobot.info/forum/memberlist.php?mode=viewprofile&u=243))
  * Intro1.ogg
  * Intro2.ogg
@@ -39,5 +44,5 @@ You can change the quality of OGG files by setting MUSIC_QUALITY in CMake (this 
 # Licensing
 All music files on this reporitory are licensed under GPLv3 license.
 * The rights to redistribute original music files were given to TerranovaTeam along with the source code.
-* Emxx52 puts his music on our forum and allows us to distribute it with the game - [forum topic (Polish)](http://colobot.info/forum/viewtopic.php?p=3242#p3242)
-* The same applies to PiXeL's intro music - [forum post (Polish)](http://colobot.info/forum/viewtopic.php?f=17&t=354&p=3505#p3505)
+* Emxx52 puts his music on our forum and allows us to distribute it with the game - [forum topic (Polish)](https://colobot.info/forum/showthread.php?tid=177&pid=2858#pid2858)
+* The same applies to PiXeL's intro music - [forum post (Polish)](https://colobot.info/forum/showthread.php?tid=177&pid=2525#pid2525)
