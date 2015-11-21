@@ -31,7 +31,7 @@ The music files currently include:
  * "Deviated Distortion Imminent" - Distortion.flac *(not available in-game yet)*
  * "Dispersion Circumstance" - Dispersion.flac *(not available in-game yet)*
  * "Sequential Deed Request" - Deed.flac *(not available in-game yet)*
- * "Substantial Processing" *(not available in-game yet)*
+ * "Substantial Processing"  - Processing.flac *(not available in-game yet)*
 * New main menu intro music, composed by **PiXeL** ([forum](http://colobot.info/forum/memberlist.php?mode=viewprofile&u=243))
  * Intro1.ogg
  * Intro2.ogg
